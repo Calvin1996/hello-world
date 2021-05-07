@@ -2,3 +2,4 @@ print('This is a test')
 A=1
 B=2
 #Funktioniert das jetzt
+print(A*B)
